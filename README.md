@@ -10,7 +10,7 @@ Well, the easiest solution is to put $30k into Bitcoin and leave the other $20k 
 First, it's important to remember how efficient markets function. Market forces are an aggregate of many individuals and entities. Therefore, efficient markets don't have arbitrary asset price points at which the supply and demand relationship changes it's velocity.
 
 Why is this important? Your optimal curve in respect to the risk | reward function of an asset is **different** from the market's optimal curve.
-This means that the aggregate *satisfaction* or *dissatisfaction* of market forces is non-zero-sum. Unlike alpha, which is inherently zero-sum.
+This means that the aggregate *satisfaction* or *dissatisfaction* of market events is non-zero-sum. Unlike alpha, which is inherently zero-sum.
 
 So, all this is to say that the difference in your satisfaction curve as a function of asset price in contrast to the market's aggregate satisfaction curve means that this is something each entity/individual in the world can theoretically optimize with no competitive forces.
 
