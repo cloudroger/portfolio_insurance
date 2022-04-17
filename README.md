@@ -4,7 +4,7 @@ Let's say you like Bitcoin. You think the valuation will increase..a lot. So you
 
 You have one problem though, you realize it's still *possible* that things could go south, and you don't want be in financial ruins if this happens. So you determine a net worth threshhold at which your quality of life begins decreasing rapidly, let's say $20k. Technically we could call this a point of inflection on your satisfaction curve as a function of net worth.
 
-So how do you approach this situation? You want as much exposure to Bitcoin as possible, while maintaining ->0% risk of ever going below a $20k net worth.
+So how do you approach this situation? You want as much exposure to Bitcoin as possible, while maintaining minimal risk of ever going below a $20k net worth.
 Well, the easiest solution is to put $30k into Bitcoin and leave the other $20k in USD. Problem solved, right? Well, there's an even better solution.
 
 First, it's important to remember how efficient markets function. Market forces are an aggregate of many individuals and entities. Therefore, efficient markets don't have arbitrary asset price points at which the supply and demand relationship changes it's velocity.
