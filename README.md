@@ -15,7 +15,7 @@ This means that the aggregate *satisfaction* or *dissatisfaction* of market even
 So, all this is to say that the difference in your satisfaction curve as a function of asset price in contrast to the market's aggregate satisfaction curve means that this is something each entity/individual in the world can theoretically optimize with no competitive forces.
 
 
-This fundamental concept is why insurance ***can*** be a transaction of mutualism. In most insurance domains, options of coverage are limited to a discrete list of intuitive choices for the buyer. However, the closest instruments for constructing the optimal *insurance policy* for your investment portfolio are options contracts; and options contracts are much more difficult to effectively intuit than traditional insurance, meaning they are rarely used in as an effective hedge around their personal satisfaction curve.
+This fundamental concept is why insurance ***can*** be a transaction of mutualism. In most insurance domains, options of coverage are limited to a discrete list of intuitive choices for the buyer. However, the closest instruments for constructing the optimal *insurance policy* for your investment portfolio are options contracts; and options contracts are much more difficult to effectively intuit than traditional insurance, meaning they are rarely used as an effective hedge around their personal satisfaction curve.
 
 What is a solution to this problem? Simplifying options contracts into a more digestable and intuitive interface for investors.
 
