@@ -18,14 +18,14 @@ So, you can then take the natural log of both of these values. ln(.5) = -.69 ; l
 
 For a log wealth maximalist, only now can you take these values and assess linearly.
 
-You have 50/50 odds with a win value of .47 and a lose value of -.69. Is this a bet you should take? No, it has a negative log expected value.
+You have 50/50 odds with a win value of .47 and a loss value of -.69. Is this a bet you should take? No, it has a negative log expected value.
 
 
 # Okay, so why does this matter? 
 
 The concept of log wealth maximization sets the stage for an existing problem within the investment domain of which there are not practical solutions for, especially for retail investors.
 
-Most people realize that it's a good idea to hold exposure in assets with expected *growth*, like equities. However, most people are also cautious about limiting their exposure, because they are intuitive log wealth maximalists, even if they don't explicity realize it. 
+Most people realize that it's a good idea to hold exposure in assets with expected *growth*, like equities. However, most people are also cautious about limiting their exposure, because they are intuitive log wealth maximalists, even if they don't explicitly realize it. 
 
 So, how might one go about maintaining the maximum amount of exposure in growth assets while holding asymmetric averseness to downside risk? Well, the easiest and most common way to do this is simply limiting the amount invested, and keeping the rest in low risk credit markets or even USD.
 
@@ -51,7 +51,7 @@ You own a home with some market value. You want (or are required, but let's igno
 
 So you request a quote from an insurance company. Assuming you default to replacement cost coverage, you only have one main decision:
 
-How high of a deductible do you opt for? You know the deductible is inversely determinant of your premiums, so you want to go as high as you can, up to the point at which out of pocket costs above this level of deductible would begin affecting your financial wellbeing at an *increasingly* negative rate.
+How high of a deductible do you opt for? You know the deductible is inversely determinant of your premiums, so you want to go as high as you can, up to the point at which out-of-pocket costs above this level of deductible would begin affecting your financial wellbeing at an *increasingly* negative rate.
 
 
 So let's transpose how this concept of *insurance* can be applied to investments.
@@ -64,4 +64,4 @@ With traditional options, you could purchase a *synthetic* insurance policy on y
 
 Point being, the only two variable inputs of an investor needed to determine the optimal hedging contract (policy) is (1) Portfolio contents and (2) Optimal deductible i.e. point of inflection on wellbeing curve as a function of net worth.
 
-We can therefore construct a market for investors insurance in the same way that traditional insurance markets function. The investor can request a quote on this proposed market by indicating only two pieces of information. This information can then be substituted into the introduced formulas to convert the information into a traditional put option solicitation to be listed on an open marketplace of flexible options contracts. The rest is then handled by the competitive nature of free markets. Options writers can freely assess the transposed contract solication and provide competitive bids at which premiums they will offer a counterparty to the specifications of the contract solicited by the investor.
+We can therefore construct a market for investors insurance in the same way that traditional insurance markets function. The investor can request a quote on this proposed market by indicating only two pieces of information. This information can then be substituted into the introduced formulas to convert the information into a traditional put option solicitation to be listed on an open marketplace of flexible options contracts. The rest is then handled by the competitive nature of free markets. Options writers can freely assess the transposed contract solicition and provide competitive bids at which premiums they will offer a counterparty to the specifications of the contract solicited by the investor.
