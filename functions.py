@@ -24,7 +24,6 @@ def convert_to_put(portfolio, deductible):
 
     return portfolio
 
-
 def get_price(coin):
     url = 'https://ftx.us/api/markets/{}/usd'.format(coin.lower())
     last = float(json.loads(requests.get(url).content)['result']['last'])
