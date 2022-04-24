@@ -47,7 +47,7 @@ My proposed solution is to condense traditional options into a simple, intuitive
 
 Let's look at how insurance works in other markets, for example, a simplified version of home insurance.
 
-You own a home with some market value. You want (or are required, but let's ignore that) protection in the event of a black swan event like a hurricane. Otherwise, you face the risk financial ruin if something destroys your home.
+You own a home with some market value. You want (or are required, but let's ignore that) protection in the event of a black swan event like a hurricane. Otherwise, you face the risk of financial ruin if something destroys your home.
 
 So you request a quote from an insurance company. Assuming you default to replacement cost coverage, you only have one main decision:
 
@@ -64,4 +64,4 @@ With traditional options, you could purchase a *synthetic* insurance policy on y
 
 Point being, the only two variable inputs of an investor needed to determine the optimal hedging contract (policy) is (1) Portfolio contents and (2) Optimal deductible i.e. point of inflection on wellbeing curve as a function of net worth.
 
-We can therefore construct a market for investors insurance in the same way that traditional insurance markets function. The investor can request a quote on this proposed market by indicating only two pieces of information. This information can then be substituted into the introduced formulas to convert the information into a traditional put option solicitation to be listed on an open marketplace of flexible options contracts. The rest is then handled by the competitive nature of free markets. Options writers can freely assess the transposed contract solicition and provide competitive bids at which premiums they will offer a counterparty to the specifications of the contract solicited by the investor.
+We can therefore construct a market for investors insurance in the same way that traditional insurance markets function. The investor can request a quote on this proposed market by indicating only two pieces of information. This information can then be substituted into the introduced formulas to convert the information into a traditional put option solicitation to be listed on an open marketplace of flexible options contracts. The rest is then handled by the competitive nature of free markets. Options writers can freely assess the transposed contract solicitation and provide competitive bids at which premiums they will offer a counterparty to the specifications of the contract solicited by the investor.
