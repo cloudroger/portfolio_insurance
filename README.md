@@ -60,7 +60,7 @@ Reverting to the first example, you have a net worth of $20k. You want as much p
 
 So what you have done here is figured out your optimal investment insurance deductible; $15k (20k-5k).
 
-With traditional options, you could purchase a *synthetic* insurance policy on your portfolio by purchasing X put option contracts at Y strike price on an indefinite cycle of expiries. If we pretend your portfolio holds only one asset and 1 contract = 1 unit, X is (((C*(1+(P/U))/Y)) where C is the point of inflection of your wellbeing as a function of portfolio value, P is the premium at given strike price and U is the underlying spot price of the asset. Y is ((C/V)*U)) where V is the current portfolio value of in this case, one asset.
+With traditional options, you could purchase a *synthetic* insurance policy on your portfolio by purchasing X put option contracts at Y strike price on a perpetual cycle of expiries. If we pretend your portfolio holds only one asset and 1 contract = 1 unit, X is (((C*(1+(P/U))/Y)) where C is the point of inflection of your wellbeing as a function of portfolio value, P is the premium at given strike price and U is the underlying spot price of the asset. Y is ((C/V)*U)) where V is the current portfolio value of in this case, one asset.
 
 Point being, the only two variable inputs of an investor needed to determine the optimal hedging contract (policy) is (1) Portfolio contents and (2) Optimal deductible i.e. point of inflection on wellbeing curve as a function of net worth.
 
